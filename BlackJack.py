@@ -2,7 +2,7 @@
 """
 Created on Mon Dec 11 08:41:16 2023
 
-@author: Ran XIN
+@author: valorle
 """
 
 import matplotlib.pyplot as plt
